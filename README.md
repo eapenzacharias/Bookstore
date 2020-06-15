@@ -1,6 +1,5 @@
 # React Bookstore
 [![Maintainability](https://api.codeclimate.com/v1/badges/27747d605a230d4bd241/maintainability)](https://codeclimate.com/github/eapenzacharias/Bookstore/maintainability)
-[![Known Vulnerabilities](https://snyk.io/test/github/eapenzacharias/Bookstore/badge.svg)](https://snyk.io/test/github/eapenzacharias/Bookstore)
 
 A front-end Bookstore applicaion for organizing and managing your books. Buitlt with REACT &amp; REDUX
 
