@@ -10,7 +10,7 @@ A front-end Bookstore applicaion for organizing and managing your books. Buitlt 
 * The project is built on REACT, REDUX, node.js, JSX and Saas.
 * Deployed on [Heroku](https://www.heroku.com/)
 
-## [View live in browser]()
+## [View live in browser](https://zac-bookstore.herokuapp.com/)
 
 ## Author
 
